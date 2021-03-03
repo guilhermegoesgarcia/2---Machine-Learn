@@ -1,0 +1,11 @@
+não há apenas o 'Keras' como API de Deep Learning, há também muitas outras como:
+
+'Caffe' do grupo de pesquisa da universidade de Berkeley,
+'Torch' uma implementação usando Lua,
+'PyTorch' uma variação do Torch para Python,
+'CNTK' da Microsoft,
+'DL4J' uma implementação usando Java,
+'MXNet' da Apache.
+
+
+Cada uma delas tem as suas particularidades, é sempre legal experimentar e ver aquela com a qual se sente mais confortável.
