@@ -1,0 +1,5 @@
+Base de dados para machine learning ou apenas dados
+
+Kaggle,  https://www.kaggle.com/datasets
+ AWS,    https://registry.opendata.aws/
+Google,  https://storage.googleapis.com/openimages/web/index.html
